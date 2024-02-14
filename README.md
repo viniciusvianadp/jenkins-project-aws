@@ -50,4 +50,5 @@ The project can be configured by modifying the variables in the `variables.tf` f
 
 ## Diagram
 
-![image](https://github.com/viniciusvianadp/jenkins-project-aws/assets/86125479/48e0bbb9-a342-4f6e-90b6-c862c556d972)
+![image](https://github.com/viniciusvianadp/jenkins-project-aws/assets/86125479/89861f7e-0f76-48cc-aa4e-a77200340eef)
+
